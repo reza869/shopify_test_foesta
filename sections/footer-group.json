@@ -1,0 +1,178 @@
+{
+  "type": "footer",
+  "name": "Footer group",
+  "sections": {
+    "logo_list_Y6VENN": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_XwRgL4": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo5.png",
+            "image_link": ""
+          }
+        },
+        "logo_bqjKCe": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo4.png",
+            "image_link": ""
+          }
+        },
+        "logo_HjkAaC": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo3.png",
+            "image_link": ""
+          }
+        },
+        "logo_DmGtG9": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo2.png",
+            "image_link": ""
+          }
+        },
+        "logo_nk74MT": {
+          "type": "logo",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/logo1.png",
+            "image_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_XwRgL4",
+        "logo_bqjKCe",
+        "logo_HjkAaC",
+        "logo_DmGtG9",
+        "logo_nk74MT"
+      ],
+      "settings": {
+        "container": "container",
+        "products_show_on_xl": "5",
+        "products_show_on_sm": "2",
+        "mobile_stack": false,
+        "color_scheme": "scheme-4",
+        "border_show_bottom": false,
+        "border_show_top": false,
+        "logo_border_color": "#333333",
+        "logo_list_border_container": "full_container",
+        "padding_top": 50,
+        "padding_bottom": 30,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 50
+      }
+    },
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "contact_info_jycgcw": {
+          "type": "contact_info",
+          "settings": {
+            "heading": "Contact Info",
+            "contact_description": "Find a location nearest you.",
+            "contact_number": true,
+            "contact_email": false,
+            "contact_address": true,
+            "social_media": false
+          }
+        },
+        "link_list_GXx8EW": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Quick Links",
+            "menu": "footer"
+          }
+        },
+        "link_list_dYcc7e": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Information",
+            "menu": "information"
+          }
+        },
+        "newsletter_3NwxUb": {
+          "type": "newsletter",
+          "settings": {
+            "newsletter_information": "Subscribe to our newsletter to receive news on update.",
+            "heading": "Let's Get In Touch"
+          }
+        }
+      },
+      "block_order": [
+        "contact_info_jycgcw",
+        "link_list_GXx8EW",
+        "link_list_dYcc7e",
+        "newsletter_3NwxUb"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "page_width": "full_no_spacing",
+        "round_corner": false,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "copyright_text": "<p>@2024 Foesta shopify theme<\/p>",
+        "content_alignment": "left",
+        "show_divider": true,
+        "show_divider_home": true,
+        "padding_top": 60,
+        "padding_bottom": 65,
+        "mobile_padding_top": 35,
+        "mobile_padding_bottom": 40
+      }
+    },
+    "email_popup_NGnAkQ": {
+      "type": "email-popup",
+      "blocks": {
+        "heading_fYPN8e": {
+          "type": "heading",
+          "settings": {
+            "heading": "Heading",
+            "heading_size": "h3"
+          }
+        },
+        "text_rPyQDY": {
+          "type": "text",
+          "settings": {
+            "richtext": "<p>Sign up for our newsletter to be the first to learn about new arrivals, special promotions, and online exclusives.<\/p>"
+          }
+        },
+        "email_form_TmwVWt": {
+          "type": "email_form",
+          "settings": {
+            "richtext": "<p>*By submitting this form, you agree to receive our emails and may unsubscribe at any time.<\/p>",
+            "button_full": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_fYPN8e",
+        "text_rPyQDY",
+        "email_form_TmwVWt"
+      ],
+      "disabled": true,
+      "settings": {
+        "display": "enable",
+        "show_home_page": true,
+        "show_visitors": true,
+        "delay": 5,
+        "dont_show": true,
+        "expire": 7,
+        "popup_position": "center",
+        "popup_width": "medium",
+        "alignment": "center",
+        "image_position": "left",
+        "full--bg-image": false,
+        "image_overlay_opacity": 0,
+        "popup_scheme": ""
+      }
+    }
+  },
+  "order": [
+    "logo_list_Y6VENN",
+    "footer",
+    "email_popup_NGnAkQ"
+  ]
+}

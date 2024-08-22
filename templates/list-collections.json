@@ -1,0 +1,143 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "show_page_title": true,
+        "show_breadcrumb_navigation": true,
+        "text_center": "center",
+        "padding_top": 80,
+        "padding_bottom": 80,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 50
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "blocks": {
+        "collection_item_XVcY8e": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "new-arrivals"
+          }
+        },
+        "collection_item_8UVkM9": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "kid-s-fashion"
+          }
+        },
+        "collection_item_Atk8kj": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "new-arrivals"
+          }
+        },
+        "collection_item_LQ9gMr": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "mens-fashion"
+          }
+        },
+        "collection_item_H8Apeb": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "top-sale-s"
+          }
+        },
+        "collection_item_Dq98bQ": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "women-s-fashion"
+          }
+        },
+        "collection_item_AEfVgP": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "new-arrivals"
+          }
+        },
+        "collection_item_phLVK3": {
+          "type": "collection_item",
+          "settings": {
+            "collection": "kid-s-fashion"
+          }
+        }
+      },
+      "block_order": [
+        "collection_item_XVcY8e",
+        "collection_item_8UVkM9",
+        "collection_item_Atk8kj",
+        "collection_item_LQ9gMr",
+        "collection_item_H8Apeb",
+        "collection_item_Dq98bQ",
+        "collection_item_AEfVgP",
+        "collection_item_phLVK3"
+      ],
+      "settings": {
+        "collection_type": "selected",
+        "layout": "standard",
+        "column": "4",
+        "color_scheme": "scheme-880a46df-49bc-4157-af38-9ad3af1ef0ab",
+        "image_ratio": "adapt",
+        "rounded_image": true,
+        "title_position": "full--center",
+        "title_below__image": false,
+        "product_count": false,
+        "shop_button": true,
+        "button_label": "Shop now",
+        "button_type": "solid",
+        "button_size": "small",
+        "show_content_below_image_mobile": false,
+        "sort": "alphabetical",
+        "title": "",
+        "heading_tag": "h1",
+        "page_description": "",
+        "padding_top": 120,
+        "padding_bottom": 110,
+        "mobile_padding_top": 60,
+        "mobile_padding_bottom": 50
+      }
+    },
+    "164967093023273348": {
+      "type": "newsletter",
+      "blocks": {
+        "1649670930ed1d370e-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to learn about our latest news.",
+            "heading_size": "h1"
+          }
+        },
+        "1649670930ed1d370e-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "1649670930ed1d370e-0",
+        "1649670930ed1d370e-1"
+      ],
+      "settings": {
+        "color_scheme": "scheme-4",
+        "height": "small",
+        "image_overlay_opacity": 0,
+        "form_position": "right",
+        "content_wrapper_width": "full",
+        "content_alignment": "center",
+        "show_devider": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main",
+    "164967093023273348"
+  ]
+}

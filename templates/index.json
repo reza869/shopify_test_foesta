@@ -1,0 +1,718 @@
+{
+  "sections": {
+    "slideshow_7rgnjb": {
+      "type": "slideshow",
+      "blocks": {
+        "slide_hMHLdM": {
+          "type": "slide",
+          "settings": {
+            "heading": "Winter style <br> Sensations.",
+            "heading_size": "h0",
+            "heading_position": "top",
+            "subheading": "Having plain clothing makes you look ordinary. We can assist you <br>  in choosing the right dresses with Foesta.",
+            "button_label": "Shop now",
+            "link": "shopify:\/\/products\/yellow-chic-chiffon",
+            "button_type": "solid",
+            "button_size": "medium",
+            "image_overlay_opacity": 0,
+            "content_box_alignment": "middle-left",
+            "alignment_desktop": "left",
+            "content_animation": "fade__in__up",
+            "alignment_mobile": "center"
+          }
+        },
+        "slide_U3UGVi": {
+          "type": "slide",
+          "settings": {
+            "heading": "Spring style <br> Sensations.",
+            "heading_size": "h0",
+            "heading_position": "top",
+            "subheading": "Having plain clothing makes you look ordinary. We can assist you <br>  in choosing the right dresses with Foesta.",
+            "button_label": "Shop now",
+            "link": "shopify:\/\/products\/white-cotton-shirt",
+            "button_type": "solid",
+            "button_size": "medium",
+            "image_overlay_opacity": 0,
+            "content_box_alignment": "middle-left",
+            "alignment_desktop": "left",
+            "content_animation": "fade__in__up",
+            "alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide_hMHLdM",
+        "slide_U3UGVi"
+      ],
+      "settings": {
+        "slide_height": "adapt_image",
+        "autorotate": false,
+        "autorotate_speed": 5,
+        "make_section_full_width": true,
+        "show_dots": true,
+        "pagination_style": "dots",
+        "dots_color": "dark",
+        "show_arrows": true,
+        "navigation_type": "outline",
+        "navigation_color_scheme": "scheme-2",
+        "color_scheme": "",
+        "show_content_below_image": true,
+        "enable_color_scheme_mobile_settings": true,
+        "mobile_color_scheme": "",
+        "show_mobile_dots": false,
+        "mobile__dots_color": "dark",
+        "show_mobile_nav": true,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "text_with_icons_4kLWpV": {
+      "type": "text-with-icons",
+      "blocks": {
+        "feature_N6zq3Y": {
+          "type": "feature",
+          "settings": {
+            "icon_enable": true,
+            "icon": "shipment",
+            "heading": "<p>Worldwide Shipping<\/p>",
+            "text": "World Wide Free Shipping."
+          }
+        },
+        "feature_RYaQ7B": {
+          "type": "feature",
+          "settings": {
+            "icon_enable": true,
+            "icon": "payment",
+            "heading": "<p>Secured Payment<\/p>",
+            "text": "Safe & Secured Payments"
+          }
+        },
+        "feature_jDWniz": {
+          "type": "feature",
+          "settings": {
+            "icon_enable": true,
+            "icon": "return",
+            "heading": "<p>30-Days Free Returns<\/p>",
+            "text": "Within 30 Days for an Exchange"
+          }
+        },
+        "feature_K4V6xh": {
+          "type": "feature",
+          "settings": {
+            "icon_enable": true,
+            "icon": "surprise",
+            "heading": "<p>Surprise Gift<\/p>",
+            "text": "Free gift cards & vouchers"
+          }
+        }
+      },
+      "block_order": [
+        "feature_N6zq3Y",
+        "feature_RYaQ7B",
+        "feature_jDWniz",
+        "feature_K4V6xh"
+      ],
+      "settings": {
+        "section_fullwidth": true,
+        "title": "",
+        "heading_size": "h1",
+        "subtitle": "",
+        "alignment": "center",
+        "column": "4",
+        "content_alignment": "left",
+        "icon_position": "left",
+        "color_scheme": "scheme-1",
+        "border_show": true,
+        "border_show_bottom": true,
+        "border_show_top": false,
+        "border_show_box": false,
+        "border_color": "#efefef",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "mobile_padding_top": 60,
+        "mobile_padding_bottom": 60
+      }
+    },
+    "collection_list_bDGbTf": {
+      "type": "collection-list",
+      "blocks": {
+        "featured_collection_4rdhfp": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "kid-s-fashion",
+            "single_collection__title": ""
+          }
+        },
+        "featured_collection_9YtkRw": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "mens-fashion",
+            "single_collection__title": ""
+          }
+        },
+        "featured_collection_JKWhdb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "new-arrivals",
+            "single_collection__title": ""
+          }
+        },
+        "featured_collection_7x9UGg": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "top-sale-s",
+            "single_collection__title": ""
+          }
+        },
+        "featured_collection_zxya3a": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "women-s-fashion",
+            "single_collection__title": ""
+          }
+        }
+      },
+      "block_order": [
+        "featured_collection_4rdhfp",
+        "featured_collection_9YtkRw",
+        "featured_collection_JKWhdb",
+        "featured_collection_7x9UGg",
+        "featured_collection_zxya3a"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "subtitle": "",
+        "alignment": "center",
+        "layout": "slider",
+        "column": "5",
+        "full_width": false,
+        "custom_width": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "rounded_image": true,
+        "title_position": "full--center",
+        "title_alignment": "content--middle",
+        "title_below__image": false,
+        "product_count": false,
+        "shop_button": true,
+        "button_label": "Shop now",
+        "button_type": "solid",
+        "button_size": "small",
+        "button_icon": false,
+        "card_color_scheme": "scheme-424170a7-b103-48dd-9f86-458e61bee302",
+        "auto_rotate": false,
+        "autoplay_time": 3,
+        "show_navigation": true,
+        "navigation_position": "middle",
+        "navigation_type": "outline",
+        "navigation_color_scheme": "",
+        "mobile_alignment": "left",
+        "products_show_on_sm": "1",
+        "padding_top": 100,
+        "padding_bottom": 0,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "featured_collection_nXbhDt": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Trending product",
+        "heading_size": "h1",
+        "subtitle": "Follow the most popular trends and get exclusive items from Foesta shop.",
+        "alignment": "center",
+        "mobile_alignment": "center",
+        "collection": "mens-fashion",
+        "image_ratio": "adapt",
+        "image_round_corner": true,
+        "show_secondary_image": true,
+        "show_title": true,
+        "show_price": true,
+        "show_vendor": false,
+        "show_product_rating": false,
+        "show_cart_action": false,
+        "show_badges": true,
+        "badge_position": "top-left",
+        "show_cart_button": true,
+        "cart_button_positon": "top_right",
+        "card_color_scheme": "scheme-1",
+        "show_countdown": true,
+        "timer_color_scheme": "",
+        "place_timer_on_image": false,
+        "color_swatches": true,
+        "products_to_show": 8,
+        "products_show_on_xl": "4",
+        "products_show_on_sm": "1",
+        "slider_enable": true,
+        "auto_rotate": false,
+        "autoplay_time": 3,
+        "show_navigation": true,
+        "navigation_position": "middle",
+        "navigation_type": "outline",
+        "navigation_color_scheme": "scheme-2",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_style": "link",
+        "button_size": "large",
+        "color_scheme": "scheme-1",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 50
+      }
+    },
+    "scrolling_text_GyeWTN": {
+      "type": "scrolling-text",
+      "blocks": {
+        "announcement_xmyMxt": {
+          "type": "announcement",
+          "settings": {
+            "text": "Hot Deal Products!",
+            "text_stroke": true,
+            "text_size": 32,
+            "text_link": ""
+          }
+        },
+        "announcement_cdizbP": {
+          "type": "announcement",
+          "settings": {
+            "text": "Hot Deal Products!",
+            "text_stroke": false,
+            "text_size": 32,
+            "text_link": ""
+          }
+        },
+        "announcement_frWUPc": {
+          "type": "announcement",
+          "settings": {
+            "text": "Hot Deal Products!",
+            "text_stroke": true,
+            "text_size": 32,
+            "text_link": ""
+          }
+        },
+        "announcement_VJGh89": {
+          "type": "announcement",
+          "settings": {
+            "text": "Hot Deal Products!",
+            "text_stroke": false,
+            "text_size": 32,
+            "text_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_xmyMxt",
+        "announcement_cdizbP",
+        "announcement_frWUPc",
+        "announcement_VJGh89"
+      ],
+      "settings": {
+        "direction": "right",
+        "container": "w-full",
+        "speed": 30,
+        "item_gap": 70,
+        "item_gap_mobile": 50,
+        "color_scheme": "scheme-4",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "mobile_padding_top": 25,
+        "mobile_padding_bottom": 25
+      }
+    },
+    "banner_list_axM8FA": {
+      "type": "banner-list",
+      "blocks": {
+        "banner_y8X9qh": {
+          "type": "banner",
+          "settings": {
+            "split_content": false,
+            "content_position": "bottom",
+            "content_alignment": "left",
+            "title": "<p>Spring Collection<\/p>",
+            "heading_size": "h3",
+            "text": "Free Shipping Over Order $150",
+            "text_description": "",
+            "text_size": "sm",
+            "link_label": "Shop now",
+            "link": "shopify:\/\/products\/yellow-chic-chiffon",
+            "enble_entire_link": false,
+            "button_type": "solid",
+            "button_size": "small",
+            "button_round": 44,
+            "button_icon": false,
+            "card_padding": "small",
+            "image_overlay_opacity": 20
+          }
+        },
+        "banner_PY9JXg": {
+          "type": "banner",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/banner-2.png",
+            "split_content": false,
+            "content_position": "bottom",
+            "content_alignment": "left",
+            "title": "<p>-25% Off Items<\/p>",
+            "heading_size": "h3",
+            "text": "New Weekend Sales Offer",
+            "text_description": "",
+            "text_size": "sm",
+            "link_label": "Shop now",
+            "link": "shopify:\/\/products\/fashionable-frock",
+            "enble_entire_link": false,
+            "button_type": "solid",
+            "button_size": "small",
+            "button_round": 44,
+            "button_icon": false,
+            "card_padding": "small",
+            "image_overlay_opacity": 20
+          }
+        }
+      },
+      "block_order": [
+        "banner_y8X9qh",
+        "banner_PY9JXg"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "subtitle": "",
+        "alignment": "left",
+        "mobile_alignment": "center",
+        "container": "container",
+        "layout": "grid",
+        "products_show_on_xl": "2",
+        "products_show_on_sm": "1",
+        "image_ratio": "adapt",
+        "round_corner": true,
+        "show_content_below_image": false,
+        "card_color_scheme": "",
+        "color_scheme": "scheme-1",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 50
+      }
+    },
+    "lookbook_slider_qhPnxd": {
+      "type": "lookbook-slider",
+      "blocks": {
+        "look_UtTHV6": {
+          "type": "look",
+          "settings": {
+            "product": "olive-green-jacket",
+            "hotspot_x": 48,
+            "hotspot_y": 48,
+            "color_scheme": ""
+          }
+        },
+        "look_TkhjER": {
+          "type": "look",
+          "settings": {
+            "product": "striped-silk-blouse",
+            "hotspot_x": 16,
+            "hotspot_y": 68,
+            "color_scheme": ""
+          }
+        },
+        "look_qUqxYa": {
+          "type": "look",
+          "settings": {
+            "product": "ocean-blue-shirt",
+            "hotspot_x": 46,
+            "hotspot_y": 24,
+            "color_scheme": ""
+          }
+        }
+      },
+      "block_order": [
+        "look_UtTHV6",
+        "look_TkhjER",
+        "look_qUqxYa"
+      ],
+      "settings": {
+        "heading": "Shop the Lookbook",
+        "heading_size": "h1",
+        "subtitle": "Follow the most popular trends and get exclusive items from Foesta shop.",
+        "alignment": "left",
+        "mobile_alignment": "center",
+        "page_width": "fixed",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "round_corner": true,
+        "image_ratio": "adapt",
+        "image_round_corner": true,
+        "show_secondary_image": true,
+        "show_title": true,
+        "show_price": true,
+        "show_vendor": false,
+        "show_product_rating": false,
+        "show_cart_action": false,
+        "show_badges": true,
+        "badge_position": "top-right",
+        "show_cart_button": true,
+        "cart_button_positon": "top_right",
+        "show_countdown": true,
+        "timer_color_scheme": "",
+        "place_timer_on_image": false,
+        "color_swatches": true,
+        "show_navigation": true,
+        "navigation_position": "bottom",
+        "navigation_type": "outline",
+        "navigation_color_scheme": "scheme-2",
+        "color_scheme": "scheme-1",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 50
+      }
+    },
+    "testimonial_section_deVXMF": {
+      "type": "testimonial-section",
+      "blocks": {
+        "testimonial_yxkwYz": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Product Quality!",
+            "text": "\"I absolutely love shopping here! The selection is fantastic, the prices are competitive, Highly recommend.\"",
+            "rating": "5",
+            "author_image": true,
+            "author_name": "Wade Warren",
+            "author_designation": "Customer"
+          }
+        },
+        "testimonial_AK9iCN": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Delivery Services!",
+            "text": "\"I had a great experience shopping on this website. The interface is user- friendly, making it easy to find”",
+            "rating": "5",
+            "author_image": true,
+            "author_name": "Kristin Watson",
+            "author_designation": "Customer"
+          }
+        },
+        "testimonial_9pWzrM": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Product Price!",
+            "text": "\"I'm so impressed with the level of customer service I received. I had an issue with my order, and the support”",
+            "rating": "5",
+            "author_image": true,
+            "author_name": "Esther Howard",
+            "author_designation": "Designer"
+          }
+        },
+        "testimonial_8Mde7D": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Delivery Services!",
+            "text": "\"I had a great experience shopping on this website. The interface is user- friendly, making it easy to find”",
+            "rating": "5",
+            "author_image": true,
+            "author_name": "Michel",
+            "author_designation": "Developer"
+          }
+        },
+        "testimonial_XHJNpw": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Good Support!",
+            "text": "\"I'm so impressed with the level of customer service I received. I had an issue with my order, and the support”",
+            "rating": "5",
+            "author_image": true,
+            "author_name": "Jenny",
+            "author_designation": "Customer"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_yxkwYz",
+        "testimonial_AK9iCN",
+        "testimonial_9pWzrM",
+        "testimonial_8Mde7D",
+        "testimonial_XHJNpw"
+      ],
+      "settings": {
+        "heading": "Customers Review",
+        "heading_size": "h1",
+        "subtitle": "Share information about your brand with your customers.",
+        "alignment": "center",
+        "mobile_alignment": "center",
+        "products_show_on_xl": "3",
+        "card_color_scheme": "scheme-1",
+        "image_round_corner": true,
+        "rating_color": "#ffce31",
+        "auto_rotate": false,
+        "autoplay_time": 3,
+        "show_navigation": true,
+        "navigation_position": "middle",
+        "navigation_type": "outline",
+        "navigation_color_scheme": "scheme-2",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 50,
+        "color_scheme": "scheme-4"
+      }
+    },
+    "featured_collection_HVnxjm": {
+      "type": "featured-collection",
+      "settings": {
+        "heading": "Featured collection",
+        "heading_size": "h1",
+        "subtitle": "Follow the most popular trends and get exclusive items from Foesta shop.",
+        "alignment": "center",
+        "mobile_alignment": "center",
+        "collection": "new-arrivals",
+        "image_ratio": "adapt",
+        "image_round_corner": true,
+        "show_secondary_image": true,
+        "show_title": true,
+        "show_price": true,
+        "show_vendor": false,
+        "show_product_rating": false,
+        "show_cart_action": false,
+        "show_badges": true,
+        "badge_position": "top-left",
+        "show_cart_button": true,
+        "cart_button_positon": "top_right",
+        "card_color_scheme": "scheme-1",
+        "show_countdown": true,
+        "timer_color_scheme": "",
+        "place_timer_on_image": false,
+        "color_swatches": true,
+        "products_to_show": 8,
+        "products_show_on_xl": "4",
+        "products_show_on_sm": "1",
+        "slider_enable": false,
+        "auto_rotate": false,
+        "autoplay_time": 3,
+        "show_navigation": true,
+        "navigation_position": "middle",
+        "navigation_type": "outline",
+        "navigation_color_scheme": "",
+        "show_view_all": false,
+        "button_label": "View all",
+        "button_style": "link",
+        "button_size": "large",
+        "color_scheme": "scheme-1",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 50
+      }
+    },
+    "video_69nrGt": {
+      "type": "video",
+      "blocks": {
+        "image_CCj4WG": {
+          "type": "image",
+          "settings": {
+          }
+        },
+        "heading_CwYNgz": {
+          "type": "heading",
+          "settings": {
+            "heading": "Hot Deals You Can’t Miss",
+            "heading_size": "h1"
+          }
+        },
+        "text_akYVWe": {
+          "type": "text",
+          "settings": {
+            "subheading": "Buy any products & take the gift voucher"
+          }
+        },
+        "button_xtENt9": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop now",
+            "link": "shopify:\/\/products\/yellow-chic-chiffon",
+            "button_type": "solid",
+            "button_size": "medium",
+            "video_play_button": false,
+            "video_button_type": "solid"
+          }
+        }
+      },
+      "block_order": [
+        "image_CCj4WG",
+        "heading_CwYNgz",
+        "text_akYVWe",
+        "button_xtENt9"
+      ],
+      "settings": {
+        "height": "adapt",
+        "image_overlay_opacity": 10,
+        "rounded_image": false,
+        "container_layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "container_full_width": true,
+        "content_on_video": false,
+        "color_scheme": "scheme-5",
+        "mobile_content_alignment": "left",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=9no7Q4jYnsI",
+        "description": "",
+        "video_sound": false,
+        "video_icon_position": "full--center",
+        "full_width": false,
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "featured_blog_JMEXcy": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Our Latest Blog",
+        "heading_size": "h1",
+        "text": "Follow the most popular trends and get exclusive items from Foesta shop.",
+        "alignment": "center",
+        "mobile_alignment": "center",
+        "color_scheme": "scheme-1",
+        "blog": "news",
+        "post_limit": 3,
+        "show_image": true,
+        "image_ratio": "medium",
+        "show_round_corner": true,
+        "show_title": true,
+        "show_content": false,
+        "show_date": true,
+        "show_author": false,
+        "show_comment": false,
+        "button_label": "Read More",
+        "button_type": "solid",
+        "button_size": "small",
+        "view_all": "View All",
+        "show_view_all": false,
+        "view_button_type": "solid",
+        "view_button_size": "medium",
+        "color_scheme_card": "scheme-4",
+        "padding_top": 100,
+        "padding_bottom": 60,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 30
+      }
+    }
+  },
+  "order": [
+    "slideshow_7rgnjb",
+    "text_with_icons_4kLWpV",
+    "collection_list_bDGbTf",
+    "featured_collection_nXbhDt",
+    "scrolling_text_GyeWTN",
+    "banner_list_axM8FA",
+    "lookbook_slider_qhPnxd",
+    "testimonial_section_deVXMF",
+    "featured_collection_HVnxjm",
+    "video_69nrGt",
+    "featured_blog_JMEXcy"
+  ]
+}

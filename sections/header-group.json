@@ -1,0 +1,87 @@
+{
+  "type": "header",
+  "name": "Header group",
+  "sections": {
+    "announcement_bar_UfVhrq": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_6iaFYz": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "linkLabel": "Learn more",
+            "link": ""
+          }
+        },
+        "announcement_bDB7H6": {
+          "type": "announcement",
+          "settings": {
+            "text": "Welcome to our store",
+            "linkLabel": "Learn more",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "announcement_6iaFYz",
+        "announcement_bDB7H6"
+      ],
+      "settings": {
+        "header_top_enable": true,
+        "social_enable": true,
+        "language_selector_enable": true,
+        "country_selector_enable": true,
+        "color_scheme": "scheme-2",
+        "show_arrow": false,
+        "autorotate": false,
+        "autorotate_speed": 5
+      }
+    },
+    "header": {
+      "type": "header",
+      "blocks": {
+        "mega_menu_fXGhKy": {
+          "type": "mega-menu",
+          "settings": {
+            "heading": "shop",
+            "image": "shopify:\/\/shop_images\/3_dec0691b-cace-4ec3-8a9c-8214623e45aa.png",
+            "height": "adapt",
+            "promo1_heading": "Floral Print Sundress for Stylish Girls",
+            "promo1_text": "",
+            "promo1_link": "shopify:\/\/products\/blue-stylish-sartorial",
+            "image_2": "shopify:\/\/shop_images\/5_bdbece6b-0ab4-48e1-8127-91c10e009a65.png",
+            "height_2": "adapt",
+            "promo2_heading": "Elegant Lace Cocktail Dress",
+            "promo2_text": "",
+            "promo2_link": "shopify:\/\/products\/olive-green-jacket"
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_fXGhKy"
+      ],
+      "settings": {
+        "logo": "shopify:\/\/shop_images\/foesta..png",
+        "logo_width": 130,
+        "logo_position": "middle_left",
+        "menu": "main-menu",
+        "menu_position": "center",
+        "header_sticky": true,
+        "sticky_color_background": "#ffffff",
+        "sticky_text_color": "#121212",
+        "show_cart": true,
+        "show_search": true,
+        "user_icon": true,
+        "color_scheme_header": "scheme-1",
+        "transparent_header": false,
+        "transparent_color_foreground": "#111111",
+        "drawer_menu": false,
+        "drawer-menu": "main-menu"
+      }
+    }
+  },
+  "order": [
+    "announcement_bar_UfVhrq",
+    "header"
+  ]
+}

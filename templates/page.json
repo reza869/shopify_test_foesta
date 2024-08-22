@@ -1,0 +1,73 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+        "color_scheme": "background-3",
+        "show_page_title": true,
+        "show_breadcrumb_navigation": true,
+        "text_center": "center",
+        "padding_top": 50,
+        "padding_bottom": 50,
+        "mobile_padding_top": 50,
+        "mobile_padding_bottom": 50
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "heading": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 35,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "1650435232c200ddec": {
+      "type": "newsletter",
+      "blocks": {
+        "165043523272054595-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Subscribe to learn about our latest news, update and promotions.",
+            "heading_size": "h1"
+          }
+        },
+        "165043523272054595-1": {
+          "type": "email_form",
+          "settings": {
+          }
+        },
+        "f9e1c39a-d934-4476-8cfc-cc82c858fe4d": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new collections and exclusive offers.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "165043523272054595-0",
+        "165043523272054595-1",
+        "f9e1c39a-d934-4476-8cfc-cc82c858fe4d"
+      ],
+      "settings": {
+        "color_scheme": "background-2",
+        "height": "small",
+        "image_overlay_opacity": 0,
+        "form_position": "right",
+        "content_wrapper_width": "full",
+        "content_alignment": "center",
+        "padding_top": 80,
+        "padding_bottom": 0,
+        "mobile_padding_top": 60,
+        "mobile_padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main",
+    "1650435232c200ddec"
+  ]
+}

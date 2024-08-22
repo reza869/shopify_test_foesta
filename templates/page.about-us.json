@@ -1,0 +1,520 @@
+{
+  "sections": {
+    "breadcrumbs": {
+      "type": "breadcrumbs",
+      "settings": {
+        "color_scheme": "scheme-4",
+        "show_page_title": true,
+        "show_breadcrumb_navigation": true,
+        "text_center": "center",
+        "padding_top": 100,
+        "padding_bottom": 100,
+        "mobile_padding_top": 30,
+        "mobile_padding_bottom": 30
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "heading": true,
+        "color_scheme": "background-1",
+        "padding_top": 40,
+        "padding_bottom": 35,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "image_with_text_XRjRah": {
+      "type": "image-with-text",
+      "blocks": {
+        "image_QQCpRb": {
+          "type": "image",
+          "settings": {
+            "stamp_image": "shopify:\/\/shop_images\/round-2.png",
+            "img_shadow": true
+          }
+        }
+      },
+      "block_order": [
+        "image_QQCpRb"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/about.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "round_corner": true,
+        "full_width": true,
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "color_scheme": "scheme-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 140,
+        "padding_bottom": 0,
+        "mobile_padding_top": 65,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "multicolumn_BYVVVx": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_CLREHU": {
+          "type": "column",
+          "settings": {
+            "subtitle": "Welcome To Our Online Store",
+            "title": "Discover Our Journey Redefining Online Shopping.",
+            "heading_size": "h2",
+            "text": "",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "solid",
+            "button_size": "small"
+          }
+        },
+        "column_KgAgL9": {
+          "type": "column",
+          "settings": {
+            "subtitle": "",
+            "title": "",
+            "heading_size": "h2",
+            "text": "<p>\"At Foesta, we're passionate about bringing you the latest trends and timeless classics in fashion. Our journey began with a vision to redefine the online shopping experience, offering a curated selection of high-quality clothing, accessories, and lifestyle products that reflect your unique style. What sets us apart is our dedication to providing exceptional customer service and a seamless shopping experience from start to finish.<\/p>",
+            "button_label": "Button label",
+            "button_link": "",
+            "button_style": "solid",
+            "button_size": "small"
+          }
+        }
+      },
+      "block_order": [
+        "column_CLREHU",
+        "column_KgAgL9"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "heading_align": "left",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "column_padding": "padding",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "scheme-1",
+        "columns_mobile": "1",
+        "padding_top": 0,
+        "padding_bottom": 100,
+        "mobile_padding_top": 20,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "text_with_icons_CWgmQk": {
+      "type": "text-with-icons",
+      "blocks": {
+        "feature_h8FtXA": {
+          "type": "feature",
+          "settings": {
+            "icon_enable": true,
+            "icon": "shipment",
+            "heading": "<p>Worldwide Shipping<\/p>",
+            "text": "World Wide Free Shipping."
+          }
+        },
+        "feature_Exw6gQ": {
+          "type": "feature",
+          "settings": {
+            "icon_enable": true,
+            "icon": "payment",
+            "heading": "<p>Secured Payment<\/p>",
+            "text": "Safe & Secured Payments"
+          }
+        },
+        "feature_y9aCiq": {
+          "type": "feature",
+          "settings": {
+            "icon_enable": true,
+            "icon": "return",
+            "heading": "<p>30-Days Free Returns<\/p>",
+            "text": "Within 30 Days for an Exchange"
+          }
+        },
+        "feature_PfNqgH": {
+          "type": "feature",
+          "settings": {
+            "icon_enable": true,
+            "icon": "surprise",
+            "heading": "<p>Surprise Gift<\/p>",
+            "text": "Free gift cards & vouchers"
+          }
+        }
+      },
+      "block_order": [
+        "feature_h8FtXA",
+        "feature_Exw6gQ",
+        "feature_y9aCiq",
+        "feature_PfNqgH"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "subtitle": "",
+        "alignment": "center",
+        "column": "4",
+        "content_alignment": "left",
+        "icon_position": "left",
+        "color_scheme": "scheme-1",
+        "border_show": true,
+        "border_show_bottom": true,
+        "border_show_top": true,
+        "border_color": "#e9e9e9",
+        "padding_top": 0,
+        "padding_bottom": 0,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 0
+      }
+    },
+    "team_section_gU8htC": {
+      "type": "team-section",
+      "blocks": {
+        "team_member_hXBfp8": {
+          "type": "team_member",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team-1.png",
+            "member_name": "Savannah Nguyen",
+            "member_designation": "Salesperson.",
+            "social_facebook_link": "v",
+            "social_instagram_link": "5",
+            "social_twitter_link": "5",
+            "social_pinterest_link": "14",
+            "social_youtube_link": "1"
+          }
+        },
+        "team_member_KjbUWB": {
+          "type": "team_member",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team-2.png",
+            "member_name": "Leslie Alexander",
+            "member_designation": "Salesperson.",
+            "social_facebook_link": "#",
+            "social_instagram_link": "#",
+            "social_twitter_link": "#",
+            "social_pinterest_link": "",
+            "social_youtube_link": ""
+          }
+        },
+        "team_member_KtqEXk": {
+          "type": "team_member",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team-3.png",
+            "member_name": "Leslie Alexander",
+            "member_designation": "Designation",
+            "social_facebook_link": "#",
+            "social_instagram_link": "#",
+            "social_twitter_link": "#",
+            "social_pinterest_link": "#",
+            "social_youtube_link": ""
+          }
+        },
+        "team_member_pjqedd": {
+          "type": "team_member",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team-2.png",
+            "member_name": "Name",
+            "member_designation": "Designation",
+            "social_facebook_link": "",
+            "social_instagram_link": "",
+            "social_twitter_link": "",
+            "social_pinterest_link": "#",
+            "social_youtube_link": "#"
+          }
+        },
+        "team_member_rQehyf": {
+          "type": "team_member",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/team-3.png",
+            "member_name": "Name",
+            "member_designation": "Designation",
+            "social_facebook_link": "",
+            "social_instagram_link": "#",
+            "social_twitter_link": "#",
+            "social_pinterest_link": "",
+            "social_youtube_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "team_member_hXBfp8",
+        "team_member_KjbUWB",
+        "team_member_KtqEXk",
+        "team_member_pjqedd",
+        "team_member_rQehyf"
+      ],
+      "settings": {
+        "heading": "Meet Our Teams",
+        "heading_size": "h1",
+        "subtitle": "Follow the most popular trends and get exclusive items from Foesta shop.",
+        "alignment": "center",
+        "layout": "slider",
+        "column": "3",
+        "full_width": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_round_corner": true,
+        "content_position": "top",
+        "content_alignment": "left",
+        "show_social_media": true,
+        "social_position": "bottom",
+        "social_alignment": "right",
+        "color_scheme_card": "scheme-1",
+        "auto_rotate": false,
+        "autoplay_time": 3,
+        "show_navigation": false,
+        "navigation_position": "middle",
+        "navigation_type": "solid",
+        "navigation_color_scheme": "scheme-1",
+        "mobile_alignment": "left",
+        "products_show_on_sm": "1",
+        "padding_top": 130,
+        "padding_bottom": 130,
+        "mobile_padding_top": 60,
+        "mobile_padding_bottom": 60
+      }
+    },
+    "testimonial_section_6PhRNi": {
+      "type": "testimonial-section",
+      "blocks": {
+        "testimonial_6Eypwi": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Product Quality!",
+            "text": "\"I absolutely love shopping here! The selection is fantastic, the prices are competitive, Highly recommend.\"",
+            "rating": "5",
+            "image": "shopify:\/\/shop_images\/testimonial-3.png",
+            "author_image": true,
+            "author_name": "Wade Warren",
+            "author_designation": "Client"
+          }
+        },
+        "testimonial_WRwikM": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Delivery Services!",
+            "text": "\"I had a great experience shopping on this website. The interface is user- friendly, making it easy to find”",
+            "rating": "5",
+            "image": "shopify:\/\/shop_images\/testimonial-2.png",
+            "author_image": true,
+            "author_name": "Kristin Watson",
+            "author_designation": "Client"
+          }
+        },
+        "testimonial_mQMaxN": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Product Price!",
+            "text": "\"I'm so impressed with the level of customer service I received. I had an issue with my order, and the support”",
+            "rating": "5",
+            "image": "shopify:\/\/shop_images\/testimonial-1.png",
+            "author_image": true,
+            "author_name": "Esther Howard",
+            "author_designation": "Customer"
+          }
+        },
+        "testimonial_3aiDRr": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Product Quality!",
+            "text": "\"I absolutely love shopping here! The selection is fantastic, the prices are competitive, Highly recommend.\"",
+            "rating": "5",
+            "image": "shopify:\/\/shop_images\/testimonial-3.png",
+            "author_image": true,
+            "author_name": "Wade Warren",
+            "author_designation": "Sub title"
+          }
+        },
+        "testimonial_xNJbkd": {
+          "type": "testimonial",
+          "settings": {
+            "heading": "Delivery Services!",
+            "text": "\"I had a great experience shopping on this website. The interface is user- friendly, making it easy to find”",
+            "rating": "5",
+            "image": "shopify:\/\/shop_images\/testimonial-2.png",
+            "author_image": true,
+            "author_name": "Kristin Watson",
+            "author_designation": "Sub title"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_6Eypwi",
+        "testimonial_WRwikM",
+        "testimonial_mQMaxN",
+        "testimonial_3aiDRr",
+        "testimonial_xNJbkd"
+      ],
+      "settings": {
+        "heading": "Customers Review",
+        "heading_size": "h1",
+        "subtitle": "Share information about your brand with your customers.",
+        "alignment": "center",
+        "mobile_alignment": "left",
+        "products_show_on_xl": "3",
+        "card_color_scheme": "scheme-1",
+        "image_round_corner": true,
+        "rating_color": "#ffce31",
+        "auto_rotate": false,
+        "autoplay_time": 3,
+        "show_navigation": true,
+        "navigation_position": "bottom",
+        "navigation_type": "outline",
+        "navigation_color_scheme": "scheme-2",
+        "padding_top": 120,
+        "padding_bottom": 120,
+        "mobile_padding_top": 60,
+        "mobile_padding_bottom": 60,
+        "color_scheme": "scheme-4"
+      }
+    },
+    "faq_NnLfpJ": {
+      "type": "faq",
+      "blocks": {
+        "accordion_FrggQ8": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Answers to Your Style Dilemmas",
+            "content": "<p>\"At Foesta, we're passionate about bringing you the latest trends and timeless classics in fashion. Our journey began with a vision to redefine the online shopping experience, offering a curated selection<\/p>"
+          }
+        },
+        "accordion_Mi94HA": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Frequently Asked Questions About Fashion",
+            "content": "<p>Inform your customers about your brand. Make announcements, describe a product, or welcome customers to your store.<\/p>"
+          }
+        },
+        "accordion_DEkX9M": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Common Queries in Style Clarified",
+            "content": "<p>Inform your customers about your brand. Make announcements, describe a product, or welcome customers to your store.<\/p>"
+          }
+        },
+        "accordion_q6JdJr": {
+          "type": "accordion",
+          "settings": {
+            "heading": "Top Questions About Fashion Addressed",
+            "content": "<p>Inform your customers about your brand. Make announcements, describe a product, or welcome customers to your store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "accordion_FrggQ8",
+        "accordion_Mi94HA",
+        "accordion_DEkX9M",
+        "accordion_q6JdJr"
+      ],
+      "settings": {
+        "heading": "Need Help? Check Out Our FAQ\nSection for Foesta Shoppers.",
+        "heading_size": "h1",
+        "subtitle": "FAQ",
+        "enable_image": true,
+        "image": "shopify:\/\/shop_images\/faq.png",
+        "round_corner": true,
+        "height": "adapt",
+        "image_position": "right",
+        "full_width": false,
+        "color_scheme": "scheme-1",
+        "mobile_image_position": "top",
+        "padding_top": 130,
+        "padding_bottom": 130,
+        "mobile_padding_top": 60,
+        "mobile_padding_bottom": 60
+      }
+    },
+    "instagram_gallery_jhWKFz": {
+      "type": "instagram-gallery",
+      "blocks": {
+        "instagram_image_LmyqGU": {
+          "type": "instagram_image",
+          "settings": {
+          }
+        },
+        "instagram_image_YHaGVH": {
+          "type": "instagram_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/insta-2.png"
+          }
+        },
+        "instagram_image_UJkEDa": {
+          "type": "instagram_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/insta-3.png"
+          }
+        },
+        "instagram_image_JWgqRP": {
+          "type": "instagram_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/insta-4.png"
+          }
+        },
+        "instagram_image_8cekT7": {
+          "type": "instagram_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/insta-5.png"
+          }
+        },
+        "instagram_image_VNtxHd": {
+          "type": "instagram_image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/insta-3.png"
+          }
+        }
+      },
+      "block_order": [
+        "instagram_image_LmyqGU",
+        "instagram_image_YHaGVH",
+        "instagram_image_UJkEDa",
+        "instagram_image_JWgqRP",
+        "instagram_image_8cekT7",
+        "instagram_image_VNtxHd"
+      ],
+      "settings": {
+        "heading": "@Shop By Instagram",
+        "heading_size": "h1",
+        "subtitle": "Follow the most popular trends and get exclusive items from Foesta shop.",
+        "alignment": "center",
+        "layout": "slider",
+        "column": "5",
+        "full_width": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_round_corner": true,
+        "overlay_ratio": 0.3,
+        "auto_rotate": false,
+        "autoplay_time": 3,
+        "show_navigation": false,
+        "navigation_position": "middle",
+        "navigation_type": "solid",
+        "navigation_color_scheme": "",
+        "mobile_alignment": "left",
+        "products_show_on_sm": "2",
+        "padding_top": 0,
+        "padding_bottom": 130,
+        "mobile_padding_top": 0,
+        "mobile_padding_bottom": 60
+      }
+    }
+  },
+  "order": [
+    "breadcrumbs",
+    "main",
+    "image_with_text_XRjRah",
+    "multicolumn_BYVVVx",
+    "text_with_icons_CWgmQk",
+    "team_section_gU8htC",
+    "testimonial_section_6PhRNi",
+    "faq_NnLfpJ",
+    "instagram_gallery_jhWKFz"
+  ]
+}
